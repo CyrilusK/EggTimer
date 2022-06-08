@@ -17,4 +17,5 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 * Functions with outputs
 * How to use the ProgressView
 
+![screen](screen.png)
 
